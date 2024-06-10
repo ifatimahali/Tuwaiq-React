@@ -13,4 +13,4 @@ function Choose(props) {
   );
 }
 
-export default Choose;
+export default Choose
